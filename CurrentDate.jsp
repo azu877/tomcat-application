@@ -12,6 +12,4 @@
       <%
          Date date = new Date();
          out.print( "<h2 align = \"center\">" +date.toString()+"</h2>\n test change reaction");
-      %>
-   </body>
-</html>
+
