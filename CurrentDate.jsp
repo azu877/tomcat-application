@@ -11,7 +11,7 @@
       </center>
       <%
          Date date = new Date();
-         out.print( "<h2 align = \"center\">" +date.toString()+"</h2>");
+         out.print( "<h2 align = \"center\">" +date.toString()+"</h2>\n chancg");
       %>
    </body>
 </html>
